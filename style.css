@@ -1,1 +1,22 @@
+#container{
+    box-sizing: border-box;
+    background-color: aqua;
+    border-radius:25px;
+    box-shadow: 30px;
+    width:50%;
+    justify-content:center;
+    margin-left:450px;
+    text-align:center;
+    font-size: larger;
+}
+#form{
+    padding: 10px;
+    background-color: aquamarine;
+    
+}
 
+#submit:hover{
+    font-size: large;
+    color:blue
+    
+}
